@@ -4,8 +4,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-zephyr664.vercel.app/api?username=Diego-Sabino&show_icons=true&count_private=true&hide_border=true&title_color=a265ff&icon_color=a265ff&text_color=c9d1d9&bg_color=0d1117" alt="Diego Sabino GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-zephyr664.vercel.app/api/top-langs/?username=Diego-Sabino&hide=html,css&layout=compact&hide_border=true&title_color=a265ff&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px"  src="https://github-readme-stats-zephyr.vercel.app/api/top-langs/?username=Diego-Sabino&hide=html,css&layout=compact&hide_border=true&title_color=a265ff&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Diego-Sabino&theme=tokyo-night&hide_border=true&area=true&title_color=a265ff&bg_color=0d1117&line=a265ff&color=a265ff)
 <br>
