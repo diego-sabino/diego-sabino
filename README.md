@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a265ff&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a265ff&size=35&center=true&duration=1&pause=99999999999999999&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 <h3 align="center">
    <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,go,css,html,git,docker,react,redux,nodejs,mongodb,postgres,mysql,express,dotnet" />
 </h3>
