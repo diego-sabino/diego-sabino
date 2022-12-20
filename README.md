@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-zephyr.vercel.app/api?username=Diego-Sabino&show_icons=true&count_private=true&hide_border=true&title_color=FC6697&icon_color=FC6697&text_color=c9d1d9&bg_color=0d1117" alt="Diego Sabino GitHub Stats" /> 
-  <img width="41%" height="195px"  src="https://github-readme-stats-zephyr.vercel.app/api/top-langs/?username=Diego-Sabino&layout=compact&hide_border=true&title_color=FC6697&text_color=00bfbf&bg_color=0d1117&langs_count=10&hide=css,html" />
+  <img width="41%" height="195px"  src="https://github-readme-stats-zephyr.vercel.app/api/top-langs/?username=Diego-Sabino&layout=compact&hide_border=true&title_color=FC6697&text_color=00bfbf&bg_color=0d1117&langs_count=10&hide=css,html,dockerfile,cmake,makefile,shell" />
 </div>
 
 ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=Diego-Sabino&theme=tokyo-night&hide_border=true&area=true&title_color=FC6697&bg_color=0d1117&line=FC6697&color=FC6697)
