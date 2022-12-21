@@ -16,9 +16,5 @@
 <h3 align="center">
    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,go,css,html,git,docker,react,redux,nodejs,mongodb,postgres,mysql,express,dotnet,django" />
 </h3>
-<br>
-
-<br>
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC6697&height=120&section=footer"/>
