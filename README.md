@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC6697&size=35&center=true&duration=1&pause=99999999999999999&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 <h3 align="center">
-   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,go,css,html,git,docker,react,redux,nodejs,mongodb,postgres,mysql,express,dotnet,django" />
+   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,go,css,html,git,docker,react,redux,nodejs,mongodb,postgres,mysql,express,dotnet" />
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FC6697&height=120&section=footer"/>
